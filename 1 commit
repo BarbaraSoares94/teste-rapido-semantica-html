@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html leng"pt-br">
+<head>
+	<meta charset="UTF-8"/>
+<title> Teste rápido </title>
+</head>
+<body>
+	<head>
+		Aqui é a cabeça do nosso site. 
+		<p>Podemos acrescentar uma logo, uma guia de navegação, etc.</p>
+	</head>
+	<article>
+		<head>
+			<h1> Vamos colocar uma  tag "nav" e alguns links para navegação</h1>
+		<nav>
+			<ul>
+				<li> <a href="https://www.devmedia.com.br/html-basico-codigos-html/16596"> Este é o link 1</a>  </li>
+				<li> <a href="https://www.facebook.com/profile.php?id=100000809565355"> Este é o link 2</a> </li>
+			</ul>
+		</nav>
+		</head>
+ <h1> Aqui temos o título principal </h1>
+ <section>
+ 	Nesta parte temos a primeira seção de nosso texto. 
+ </section>
+ <h3> Aqui nós temos um subtítulo </h3>
+ <section> Aqui temos a segunda seção  do nosso texto. </section>
+
+<p> Aqui temos  a adição de um parágrafo. </p>
+
+<aside>
+	<h2>Aqui vamos ver o comportamento de uma tag "aside"</h2>
+<li>Aqui a gente colocar uma tag "li"</li>
+<li>Aqui a gente coloca outra tag "li" para que a página mostre os itens um abaixo do outro</li>
+<li> Isso mesmo, agora você estará visualizando o comportamento semântico da tag "li" descendente de uma "aside"</li>
+</aside>
+<aside>
+	<h1>Agora vamos colocar links em uma tag "aside"</h1>
+	<ul>
+		<li> <a href="https://br.freepik.com/fotos/mar"> Neste link temos imagens do mar</a></li>
+		<li> <a href="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fviajarverde.com.br%2Fwp-content%2Fuploads%2F2016%2F07%2Famazon-rainforest-wallpaper-4-810x506.jpg&imgrefurl=https%3A%2F%2Fviajarverde.com.br%2Fseis-florestas-pelo-mundo-que-merecem-ser-visitadas%2F&tbnid=kZeI1tSfCpvGRM&vet=12ahUKEwjDuJyjgab3AhXLSbgEHcmeAqIQMygAegUIARDRAQ..i&docid=1-huQrFnOoszRM&w=810&h=506&q=fotos%20floresta&ved=2ahUKEwjDuJyjgab3AhXLSbgEHcmeAqIQMygAegUIARDRAQ"> Neste aqui temos imagens de uma floresta</a> </li></ul>
+</aside>
+<h3>Vamos colocar outra seção aqui</h3>
+<section>
+	<p>Aqui nós vamos acrescentar uma imagem</p>
+	<img src="livroimg/book.jpg" width="30%">
+	<p>Pronto, conseguimos colocar uma imagem local nesta seção por meio do caminho:<p>
+	<p>"livroimg/book.jpg"</p>
+</section>
+<p> legal! Agora vamos colocar um rodapé a nossa página.</p>
+<footer>
+	<p> <small>Esta é a tag "foot", ela permite que esta parte da página se comporte como seu rodapé.
+	Acresente também a tag "small" para que a letras fiquem assim pequeninas. &copy;</small></p>
+</footer>
+</article>
+</body>
+</html>
